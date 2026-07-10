@@ -1,0 +1,6 @@
+feedparser
+chromadb
+ollama
+sentence-transformers
+torchvision
+streamlit

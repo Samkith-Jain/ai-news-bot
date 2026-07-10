@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+news_cache.json
+chroma_db/
+.env
+.DS_Store
